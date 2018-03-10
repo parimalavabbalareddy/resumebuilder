@@ -1,0 +1,95 @@
+{
+  "basics": {
+    "name": "parimala",
+    "label": "student",
+    "picture": "image/p2.jpg",
+    "email": "parimalavabbalareddy@gmail.com",
+    "phone": "9515254611",
+    "degree": "b.tech",
+    "summary": "",
+    "highlights": null,
+    "location": {
+      "address": "vizag",
+      "postalCode": "531116",
+      "city": "vizag",
+      "countryCode": "+91",
+      "region": "AP"
+    },
+    "profiles": [
+      {
+        "network": "airtel",
+        "username": "parimalavabbalareddy",
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "google",
+      "position": "ceo",
+      "startDate": "8th",
+      "endDate": "9th",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "additionalWork": [
+    {
+      "company": "google",
+      "position": "ceo",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "workLabel": "",
+  "additionalWorkLabel": "",
+  "education": [
+    {
+      "institution": "srichaitanya",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
+      "courses": [
+        ""
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": "",
+      "isbn": ""
+    }
+  ],
+  "additionalPublications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": "",
+      "isbn": ""
+    }
+  ],
+  "publicationsLabel": "",
+  "additionalPublicationsLabel": "",
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+.maindiv{
+  background: pink;
+  display: flex;
+  justify-content: space-between;
+}
+.leftDiv{
+  margin-left:5px;
+  position: fixed;
+  width: 25%;
+  height: auto;
+  background: #7FFFD4;
+  text-align: center;
+}
+.rightdiv{
+  margin-left: 30%;
+  width: 70%;
+  height: auto;
+  background: green;
+}
+.image1{
+  width: 200px;
+  height: 200px;
+}
+p{
+  font-size: 20px;
+}
+@media all and (max-width:750px) {
+  body{
+    background: red;
+  }
+  .maindiv{
+    width: 100%;
+    flex-wrap: wrap;
+}
+.leftdiv{
+  width:100%;
+  position:relative;
+  display: flex;
+  flex-wrap: wrap;
+}
+.rightdiv{
+  width:100%;
+  margin-left: 0%;
+}
+}
+@media all and (min-width:360) and (max-width:499px){
+  .maindiv{
+    background: #addeea;
+    width: 100%;
+  }
+  .leftDiv{
+    width: 100%;
+    display: flex;
+    margin-left:0%; 
+  }
+  .rightdiv{
+    width: 100%;
+  }
+}
